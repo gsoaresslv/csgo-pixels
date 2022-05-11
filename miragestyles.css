@@ -1,4 +1,15 @@
-body {
-    font-family: 'Franklin Gothic Medium', 'serif';
-    font-size: x-large;
+h1{
+    font-size: larger; font-family:'Times New Roman', Times, serif
+}
+h2{
+    font-size: xx-large; font-family:'Courier New', Courier, monospace;
+}
+h3{
+    font-size: larger; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    font-size: larger; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: xx-large; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
